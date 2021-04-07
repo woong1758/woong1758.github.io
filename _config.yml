@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김현웅"
-  avatar           : "/assets/images/python.jpg"
+  avatar           : "/assets/images/python.png"
   bio              : "프로그래밍 수강생"
   location         : "대한민국, 경기도, 화성시"
   email            : "woong1758@naver.com"
