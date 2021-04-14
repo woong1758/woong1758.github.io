@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "List2-Tuple-Set_Q"
+title: "List2-Tuple-Set_Q2"
 ---
 
 [문제 상황]<br>
